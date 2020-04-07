@@ -1,0 +1,11 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
