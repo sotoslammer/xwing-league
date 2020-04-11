@@ -26,9 +26,9 @@ const IndexPage = () => (
       There is hope to one day set up a system to record and comment on casual games, and in the future official
       tournaments. If you have any interest or experience in doing this type of streaming then please let us know.
     </p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image/>
-    </div>
+    {/*<div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>*/}
+    {/*  <Image/>*/}
+    {/*</div>*/}
   </Layout>
 )
 

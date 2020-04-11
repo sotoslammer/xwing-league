@@ -1,7 +1,7 @@
 import Typography from 'typography'
-import kirkhamTheme from 'typography-theme-kirkham'
+import funstonTheme from 'typography-theme-funston'
 
-const typography = new Typography(kirkhamTheme)
+const typography = new Typography(funstonTheme)
 
 export default typography
 export const rhythm = typography.rhythm
